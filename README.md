@@ -1,6 +1,7 @@
 # ATMgui
 A full gui programm for an online atm.
-Download and test it as you wish!
+
+Download and test it as you wish!(Read the readMe.txt file inside the project to be clear before you open the application)
 
 
 It starts with this splash:
